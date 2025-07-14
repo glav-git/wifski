@@ -6,6 +6,10 @@ Create high-quality GIFs from your videos on the web.
 
 Wifski is a powerful, web-based tool for converting videos into animated GIFs. It combines a sleek, responsive frontend with a robust, containerized Rust backend, all running on Cloudflare's edge network for high performance and scalability.
 
+Learn how it works in the video below:
+
+[![How it works video](https://img.youtube.com/vi/oyOaxMY4eNo/0.jpg)](https://www.youtube.com/watch?v=oyOaxMY4eNo)
+
 ---
 
 ## Features
